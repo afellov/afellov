@@ -6,7 +6,7 @@
 
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Asimovian&size=24&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=Stack)](https://git.io/typing-svg)
 
 ![Dart](https://tech-stack.wontory.dev/api/badge?slug=dart&text=dart&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 ![Flutter](https://tech-stack.wontory.dev/api/badge?slug=flutter&text=Flutter&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
