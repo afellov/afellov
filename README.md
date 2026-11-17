@@ -9,6 +9,6 @@
 <div align="center">
   <br>
   <a href="https://github.com/afellow?tab=repositories">
-    <img src="https://img.shields.io/badge/CHECK_OUT-MY_REPOS-e87c28?style=for-the-badge&logo=github&logoColor=white" alt="Check out my repos" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=afellow&theme=dark&headerStyle=mac" alt="Terminal Stats" />
   </a>
 </div>
