@@ -6,17 +6,20 @@
 ![sharp](https://tech-stack.wontory.dev/api/badge?slug=sharp&text=sharp&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 ![PocketBase](https://tech-stack.wontory.dev/api/badge?slug=pocketbase&text=PocketBase&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 
-<div align="center">
-  <br><br>
+<!-- АНИМИРОВАННАЯ СТРЕЛКА ВНИЗ -->
   <a href="https://github.com/afellow?tab=repositories">
     <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <!-- Сама стрелка -->
       <path d="M7 10L12 15L17 10" stroke="#e87c28" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      
-      <!-- Анимация движения вверх-вниз -->
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,6; 0,0" dur="1.5s" repeatCount="indefinite" />
     </svg>
   </a>
   <br>
-  <sub><i>check what i got down here...</i></sub>
-</div>
+  
+  <!-- ЛЕНИВАЯ ПОДПИСЬ ПОД СТРЕЛКОЙ -->
+  <sub><i>check my stuff down here (or dont, im tired)</i></sub>
+  
+  <br><br>
+
+  <!-- КРАСИВАЯ ВОЛНА В КОНЦЕ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e87c28&height=80&section=footer" alt="Footer Wave" />
+
