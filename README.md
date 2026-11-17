@@ -6,8 +6,9 @@
 ![sharp](https://tech-stack.wontory.dev/api/badge?slug=sharp&text=sharp&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 ![PocketBase](https://tech-stack.wontory.dev/api/badge?slug=pocketbase&text=PocketBase&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 
-
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=afellow&show_icons=true&theme=dark&title_color=e87c28&icon_color=e87c28&text_color=ffffff&bg_color=0D1117&hide_border=true&count_private=true" alt="Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afellow&layout=compact&theme=dark&title_color=e87c28&text_color=ffffff&bg_color=0D1117&hide_border=true" alt="Top Langs" />
+  <br>
+  <a href="https://github.com/afellow?tab=repositories">
+    <img src="https://img.shields.io/badge/CHECK_OUT-MY_REPOS-e87c28?style=for-the-badge&logo=github&logoColor=white" alt="Check out my repos" />
+  </a>
 </div>
