@@ -7,5 +7,5 @@
 ![PocketBase](https://tech-stack.wontory.dev/api/badge?slug=pocketbase&text=PocketBase&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=afellov&langs_count=4&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=afellov&langs_count=4&theme=vision-friendly-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=afellov&langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=afellov&langs_count=4&theme=algolia)
 
