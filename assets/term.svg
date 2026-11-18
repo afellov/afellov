@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="t">
+  <title id="t">afellov — terminal</title>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f79649" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#ea9b58" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#f79649" stop-opacity=".45"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a1830"/>
+      <stop offset="1" stop-color="#0c1d38"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".12" cy="0" r="1">
+      <stop offset="0" stop-color="#f79649" stop-opacity=".10"/>
+      <stop offset=".55" stop-color="#f79649" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="298" rx="16" fill="#0d1f3d" stroke="url(#border)" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="298" rx="16" fill="url(#glow)"/>
+
+  <path d="M1 47 H899" stroke="#f79649" stroke-opacity=".16"/>
+  <rect x="1" y="1" width="898" height="46" rx="16" fill="url(#bar)" opacity=".75"/>
+  <path d="M17 1 H883 A16 16 0 0 1 899 17 V47 H1 V17 A16 16 0 0 1 17 1 Z" fill="#0a1830" opacity=".55"/>
+
+  <circle cx="28" cy="24" r="5" fill="#f79649"/>
+  <circle cx="46" cy="24" r="5" fill="#c47a3e"/>
+  <circle cx="64" cy="24" r="5" fill="#7a4a2a"/>
+
+  <text x="450" y="29" text-anchor="middle" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#b78a63" letter-spacing=".6">afel@github: ~</text>
+  <text x="874" y="29" text-anchor="end" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#6d7f9c">zsh</text>
+
+  <text x="848" y="212" text-anchor="end" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="32" fill="#f79649" fill-opacity=".12">¯\_(ツ)_/¯</text>
+
+  <g font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16">
+    <text x="40" y="92" fill="#f79649">$</text>
+    <text x="58" y="92" fill="#e8d6c2">git status</text>
+    <text x="40" y="122" fill="#93a6c2">nothing to commit, working tree clean</text>
+
+    <text x="40" y="176" fill="#f79649">$</text>
+    <text x="58" y="176" fill="#e8d6c2">make</text>
+    <text x="40" y="206" fill="#93a6c2">make: Nothing to be done.</text>
+
+    <text x="40" y="260" fill="#f79649">$</text>
+    <rect x="58" y="247" width="9.5" height="17" fill="#f79649">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.45;.5;.95;1" dur="1.15s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="286" viewBox="0 0 820 286" role="img" aria-labelledby="t">
+  <title id="t">afellov — recent commits</title>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f79649" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#ea9b58" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#f79649" stop-opacity=".45"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a1830"/>
+      <stop offset="1" stop-color="#0c1d38"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".1" cy="0" r="1">
+      <stop offset="0" stop-color="#f79649" stop-opacity=".10"/>
+      <stop offset=".55" stop-color="#f79649" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="284" rx="14" fill="#0d1f3d" stroke="url(#border)" stroke-width="2"/>
+  <rect x="1" y="1" width="818" height="284" rx="14" fill="url(#glow)"/>
+
+  <path d="M1 47 H819" stroke="#f79649" stroke-opacity=".16"/>
+  <path d="M15 1 H805 A14 14 0 0 1 819 15 V47 H1 V15 A14 14 0 0 1 15 1 Z" fill="url(#bar)" opacity=".8"/>
+
+  <circle cx="26" cy="24" r="4.5" fill="#f79649"/>
+  <circle cx="42" cy="24" r="4.5" fill="#c47a3e"/>
+  <circle cx="58" cy="24" r="4.5" fill="#7a4a2a"/>
+
+  <text x="410" y="29" text-anchor="middle" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#b78a63" letter-spacing=".6">afel@github: ~/projects</text>
+  <text x="798" y="29" text-anchor="end" font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#6d7f9c">git</text>
+
+  <g font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14">
+    <text x="30" y="78" fill="#f79649">$</text>
+    <text x="48" y="78" fill="#e8d6c2">git log --oneline</text>
+    <g>
+      <text x="30" y="118" fill="#f79649">*</text>
+      <text x="50" y="118" fill="#c98a55">7920331</text>
+      <text x="142" y="118" fill="#e8d6c2">feat(auth): добавить экран входа, закончить 1 спринт</text>
+      <text x="790" y="118" text-anchor="end" font-size="12" fill="#7f92ae">1d ago</text>
+    </g>
+    <g>
+      <text x="30" y="148" fill="#f79649">*</text>
+      <text x="50" y="148" fill="#c98a55">7e4fe1a</text>
+      <text x="142" y="148" fill="#e8d6c2">feat(auth): добавить экран входа</text>
+      <text x="790" y="148" text-anchor="end" font-size="12" fill="#7f92ae">1d ago</text>
+    </g>
+    <g>
+      <text x="30" y="178" fill="#f79649">*</text>
+      <text x="50" y="178" fill="#c98a55">92eb29a</text>
+      <text x="142" y="178" fill="#e8d6c2">feat(core): добавить настройку локализации ru/en</text>
+      <text x="790" y="178" text-anchor="end" font-size="12" fill="#7f92ae">2d ago</text>
+    </g>
+    <g>
+      <text x="30" y="208" fill="#f79649">*</text>
+      <text x="50" y="208" fill="#c98a55">7cdada4</text>
+      <text x="142" y="208" fill="#e8d6c2">feat(ui_kit): добавлены цвета и шрифты</text>
+      <text x="790" y="208" text-anchor="end" font-size="12" fill="#7f92ae">2d ago</text>
+    </g>
+    <g>
+      <text x="30" y="238" fill="#f79649">*</text>
+      <text x="50" y="238" fill="#c98a55">6c85363</text>
+      <text x="142" y="238" fill="#e8d6c2">chore: создан и подключен к основному проекту ui_kit</text>
+      <text x="790" y="238" text-anchor="end" font-size="12" fill="#7f92ae">2d ago</text>
+    </g>
+  </g>
+</svg>
