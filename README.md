@@ -13,4 +13,6 @@
 ![Python](https://tech-stack.wontory.dev/api/badge?slug=python&text=python&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 ![sharp](https://tech-stack.wontory.dev/api/badge?slug=sharp&text=sharp&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
 ![PocketBase](https://tech-stack.wontory.dev/api/badge?slug=pocketbase&text=PocketBase&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248)
+
+![Recent commits](https://github-readme-insight-terminal-asci.vercel.app/svg/git-log?user=afellov&theme=mac)
 </div>
