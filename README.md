@@ -6,16 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=32&duration=3500&pause=1000&color=F79649&center=true&vCenter=true&width=435&lines=doin'+nada;cba..." alt="doin' nada; cba...">
 </a>
 
-<br><br>
-
 <img src="assets/divider.svg" width="100%" alt="">
-
-<br><br>
 
 <!-- TERMINAL -->
 <img src="assets/term.svg" width="720" alt="afellov — terminal">
 
-<br><br><br>
+<br>
 
 <!-- STACK -->
 <a href="https://git.io/typing-svg">
@@ -30,11 +26,9 @@
 <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://tech-stack.wontory.dev/api/badge?slug=sharp&text=C%23&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248" alt="C#"></a>
 <a href="https://pocketbase.io"><img src="https://tech-stack.wontory.dev/api/badge?slug=pocketbase&text=PocketBase&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248" alt="PocketBase"></a>
 
-<br><br><br>
+<br>
 
 <img src="assets/divider.svg" width="100%" alt="">
-
-<br><br>
 
 <!-- CONTRIBUTIONS -->
 <a href="https://git.io/typing-svg">
@@ -45,9 +39,8 @@
 
 <img src="https://raw.githubusercontent.com/afellov/afellov/main/profile-3d-contrib/profile-night-view.svg" width="75%" alt="3D GitHub Contributions">
 
-<br><br><br>
+<br>
 
-<!-- FOOTER -->
 <sub>↓ repos are down there</sub>
 
 </div>
