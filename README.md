@@ -17,7 +17,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=contributors" alt="contributors"></a>
 
-![3D Contributions](https://raw.githubusercontent.com/afellov/afellov/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/afellov/afellov/main/profile-3d-contrib/profile-night-rainbow.svg"
+    width="65%"
+    alt="3D Contributions"
+  />
+</div>
+
 
 
 
