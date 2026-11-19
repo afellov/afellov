@@ -1,12 +1,16 @@
-
 <div align="center">
 
 <!-- INTRO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=32&duration=3500&pause=1000&color=F79649&center=true&vCenter=true&width=435&lines=doin'+nada;cba..." alt="doin' nada; cba...">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Asimovian&size=32&duration=3500&pause=1000&color=F79649&center=true&vCenter=true&width=435&lines=doin'+nada;cba..."
+    alt="doin' nada; cba..."
+  >
 </a>
 
+<br>
 <img src="assets/divider.svg" width="100%" alt="">
+<br>
 
 <!-- TERMINAL -->
 <img src="assets/term.svg" width="720" alt="afellov — terminal">
@@ -15,7 +19,10 @@
 
 <!-- STACK -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=Stack" alt="Stack">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=Stack"
+    alt="Stack"
+  >
 </a>
 
 <br>
@@ -27,17 +34,24 @@
 <a href="https://pocketbase.io"><img src="https://tech-stack.wontory.dev/api/badge?slug=pocketbase&text=PocketBase&highlight=true&textColor=ea9b58&iconColor=ea9b58&bgColor=0f2248" alt="PocketBase"></a>
 
 <br>
-
 <img src="assets/divider.svg" width="100%" alt="">
+<br>
 
 <!-- CONTRIBUTIONS -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=Contributions" alt="Contributions">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=Contributions"
+    alt="Contributions"
+  >
 </a>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/afellov/afellov/main/profile-3d-contrib/profile-night-view.svg" width="75%" alt="3D GitHub Contributions">
+<img
+  src="https://raw.githubusercontent.com/afellov/afellov/main/profile-3d-contrib/profile-night-view.svg"
+  width="75%"
+  alt="3D GitHub Contributions"
+>
 
 <br>
 
