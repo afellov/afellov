@@ -40,8 +40,8 @@
 <!-- CONTRIBUTIONS -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=2500&pause=1500&color=F79649&center=true&vCenter=true&width=435&lines=Contributions"
-    alt="Contributions"
+    src="https://readme-typing-svg.demolab.com?font=Asimovian&size=20&duration=5&pause=1&color=F79649&center=true&vCenter=true&repeat=false&width=435&lines=Contributors"
+    alt="Contributors"
   >
 </a>
 
@@ -55,6 +55,6 @@
 
 <br>
 
-<sub>↓ repos are down there</sub>
+<sub>↓ repos r down there</sub>
 
 </div>
