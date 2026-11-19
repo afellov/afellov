@@ -35,11 +35,11 @@
   <g font-family="SFMono-Regular, ui-monospace, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16">
     <text x="40" y="92" fill="#f79649">$</text>
     <text x="58" y="92" fill="#e8d6c2">git status</text>
-    <text x="40" y="122" fill="#93a6c2">nothing to commit, working tree clean</text>
+    <text x="40" y="122" fill="#93a6c2">lowkey clean, nothin' to commit</text>
 
     <text x="40" y="176" fill="#f79649">$</text>
     <text x="58" y="176" fill="#e8d6c2">make</text>
-    <text x="40" y="206" fill="#93a6c2">make: Nothing to be done.</text>
+    <text x="40" y="206" fill="#93a6c2">fr, nothin' to do rn</text>
 
     <text x="40" y="260" fill="#f79649">$</text>
     <rect x="58" y="247" width="9.5" height="17" fill="#f79649">
