@@ -34,33 +34,33 @@
     <text x="48" y="78" fill="#e8d6c2">git log --oneline</text>
     <g>
       <text x="30" y="118" fill="#f79649">*</text>
-      <text x="50" y="118" fill="#c98a55">7920331</text>
-      <text x="142" y="118" fill="#e8d6c2">feat(auth): добавить экран входа, закончить 1 спринт</text>
-      <text x="790" y="118" text-anchor="end" font-size="12" fill="#7f92ae">2d ago</text>
+      <text x="50" y="118" fill="#c98a55">6d5f8dc</text>
+      <text x="142" y="118" fill="#e8d6c2">feat(ui_kit): добавить цвета и типографику приложения</text>
+      <text x="790" y="118" text-anchor="end" font-size="12" fill="#7f92ae">13h ago</text>
     </g>
     <g>
       <text x="30" y="148" fill="#f79649">*</text>
-      <text x="50" y="148" fill="#c98a55">7e4fe1a</text>
-      <text x="142" y="148" fill="#e8d6c2">feat(auth): добавить экран входа</text>
-      <text x="790" y="148" text-anchor="end" font-size="12" fill="#7f92ae">2d ago</text>
+      <text x="50" y="148" fill="#c98a55">7920331</text>
+      <text x="142" y="148" fill="#e8d6c2">feat(auth): добавить экран входа, закончить 1 спринт</text>
+      <text x="790" y="148" text-anchor="end" font-size="12" fill="#7f92ae">3d ago</text>
     </g>
     <g>
       <text x="30" y="178" fill="#f79649">*</text>
-      <text x="50" y="178" fill="#c98a55">92eb29a</text>
-      <text x="142" y="178" fill="#e8d6c2">feat(core): добавить настройку локализации ru/en</text>
+      <text x="50" y="178" fill="#c98a55">7e4fe1a</text>
+      <text x="142" y="178" fill="#e8d6c2">feat(auth): добавить экран входа</text>
       <text x="790" y="178" text-anchor="end" font-size="12" fill="#7f92ae">3d ago</text>
     </g>
     <g>
       <text x="30" y="208" fill="#f79649">*</text>
-      <text x="50" y="208" fill="#c98a55">7cdada4</text>
-      <text x="142" y="208" fill="#e8d6c2">feat(ui_kit): добавлены цвета и шрифты</text>
-      <text x="790" y="208" text-anchor="end" font-size="12" fill="#7f92ae">3d ago</text>
+      <text x="50" y="208" fill="#c98a55">92eb29a</text>
+      <text x="142" y="208" fill="#e8d6c2">feat(core): добавить настройку локализации ru/en</text>
+      <text x="790" y="208" text-anchor="end" font-size="12" fill="#7f92ae">4d ago</text>
     </g>
     <g>
       <text x="30" y="238" fill="#f79649">*</text>
-      <text x="50" y="238" fill="#c98a55">6c85363</text>
-      <text x="142" y="238" fill="#e8d6c2">chore: создан и подключен к основному проекту ui_kit</text>
-      <text x="790" y="238" text-anchor="end" font-size="12" fill="#7f92ae">3d ago</text>
+      <text x="50" y="238" fill="#c98a55">7cdada4</text>
+      <text x="142" y="238" fill="#e8d6c2">feat(ui_kit): добавлены цвета и шрифты</text>
+      <text x="790" y="238" text-anchor="end" font-size="12" fill="#7f92ae">4d ago</text>
     </g>
   </g>
 </svg>
